@@ -5,5 +5,7 @@ hello atguigu! hello git!222
 version 22222
 hello atguigu! hello git!
 hello atguigu! hello git!
-master
+hello atguigu! hello git! 
+hello atguigu! hello git!
+hot-fix and master merge
 hello atguigu! hello git!
